@@ -12,7 +12,7 @@ PKG_VERSION:=r1034.2.1
 PKG_RELEASE:=2
 
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_URL:=https://github.com/HandsomeMod/qcom-firmware
+PKG_SOURCE_URL:=https://github.com/2659170494/qcom-firmware
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.xz
 PKG_SOURCE_VERSION:=fc0ce66ecb7dcc1293c1e29cad2d7f566221efca
 PKG_MIRROR_HASH:=6a9f773cfa43360d1a261edd37bbde857eb0aeea4bfe9c388be3d760c8b259b9
